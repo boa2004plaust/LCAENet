@@ -9,7 +9,7 @@ If you use this code in your research, please cite:
 	title		= {Paying more attention to local contrast: improving infrared small target detection performance via prior knowledge},
 	journal		= {Under Review},
 	year		= {2024},
-    url			= {https://arxiv.org/abs/2411.13260}, 
+    url		= {https://arxiv.org/abs/2411.13260}, 
 	}
 
 ## Configuration
